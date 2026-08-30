@@ -905,7 +905,7 @@ Final Answer
 ## 1. Clone the Repository
 
 ```powershell
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/knagaraj-2106/SBI-Insurance-Policy-RAG-Assistant.git
 
 cd SBI_Insurance_RAG
 ```
@@ -1180,14 +1180,6 @@ This project provided hands-on experience with:
 * Modular Python architecture
 * Component-level testing
 * End-to-end RAG testing
-
----
-
-# 🎯 Interview Explanation
-
-A concise way to explain the project in an interview:
-
-> **"I built a production-oriented insurance policy RAG assistant that allows users to ask natural-language questions over policy documents. The documents are ingested, chunked, embedded using OpenAI's text-embedding-3-small model, and stored in ChromaDB. At query time, I use query classification, query rewriting, semantic retrieval, and LLM-based reranking to select the most relevant context. The selected context is passed to GPT-4o-mini for answer generation. To reduce hallucinations, I implemented relevance, grounding, and groundedness guards along with an answer retry mechanism. The application also maintains conversation history and provides source information for the generated responses through a Streamlit interface."**
 
 ---
 
