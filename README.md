@@ -292,22 +292,8 @@ The application follows a modular production-oriented RAG architecture.
 # 🖼️ Architecture Diagram
 
 <img width="1024" height="572" alt="architecture" src="https://github.com/user-attachments/assets/1d0d33fc-ada6-47b4-97b0-04fcc25d1bb5" />
-
-
-**Recommended file:**
-
 ```text
-screenshots/architecture.png
 ```
-
-![SBI Insurance RAG Architecture](screenshots/architecture.png)
-
-> **Architecture Screenshot Placeholder**
->
-> 📌 Paste your architecture diagram here.
-
----
-
 # 🔄 End-to-End RAG Workflow
 
 The complete application flow is divided into two major stages.
