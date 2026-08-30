@@ -291,7 +291,8 @@ The application follows a modular production-oriented RAG architecture.
 
 # 🖼️ Architecture Diagram
 
-Replace the placeholder below with your final architecture image.
+<img width="1024" height="572" alt="architecture" src="https://github.com/user-attachments/assets/1d0d33fc-ada6-47b4-97b0-04fcc25d1bb5" />
+
 
 **Recommended file:**
 
