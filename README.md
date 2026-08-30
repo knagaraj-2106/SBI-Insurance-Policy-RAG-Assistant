@@ -732,7 +732,8 @@ The application provides:
 
 ## 1️⃣ Application Home Screen
 
-Replace the filename below with your actual screenshot.
+<img width="1920" height="1080" alt="main_ui" src="https://github.com/user-attachments/assets/0de8f681-81be-43ba-aeee-50c24353115c" />
+
 
 ```text
 screenshots/01_home_screen.png
@@ -749,6 +750,9 @@ screenshots/01_home_screen.png
 ---
 
 ## 2️⃣ Policy Selection
+
+<img width="1920" height="1080" alt="UI_Conversation" src="https://github.com/user-attachments/assets/ec07f6ce-ef58-4b39-a1ff-97291fd8b659" />
+
 
 ```text
 screenshots/02_policy_selection.png
@@ -767,6 +771,8 @@ screenshots/02_policy_selection.png
 ## 3️⃣ User Query
 
 Example query:
+
+<img width="1920" height="1080" alt="UI_Pipeline" src="https://github.com/user-attachments/assets/2c050fdc-59e0-4034-9f08-c7198e8a2b97" />
 
 ```text
 What medical expenses are covered under the insurance policy?
