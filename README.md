@@ -735,40 +735,12 @@ The application provides:
 <img width="1920" height="1080" alt="main_ui" src="https://github.com/user-attachments/assets/0de8f681-81be-43ba-aeee-50c24353115c" />
 
 
-```text
-screenshots/01_home_screen.png
-```
-
-![Application Home Screen](screenshots/01_home_screen.png)
-
-### 📌 Screenshot Placeholder
-
-**Paste your Streamlit home-screen screenshot here.**
-
-<br>
-
----
-
-## 2️⃣ Policy Selection
+## 2️⃣ Policy Selection & 3️⃣ User Query
 
 <img width="1920" height="1080" alt="UI_Conversation" src="https://github.com/user-attachments/assets/ec07f6ce-ef58-4b39-a1ff-97291fd8b659" />
 
 
-```text
-screenshots/02_policy_selection.png
-```
-
-![Policy Selection](screenshots/02_policy_selection.png)
-
-### 📌 Screenshot Placeholder
-
-**Paste your policy-selection screenshot here.**
-
-<br>
-
----
-
-## 3️⃣ User Query
+## 4️⃣ Generated Answer
 
 Example query:
 
@@ -778,67 +750,9 @@ Example query:
 What medical expenses are covered under the insurance policy?
 ```
 
-```text
-screenshots/03_user_query.png
-```
+## 5️⃣ Source Information & 6️⃣ Conversation / Follow-Up Question
 
-![User Query](screenshots/03_user_query.png)
-
-### 📌 Screenshot Placeholder
-
-**Paste your user-query screenshot here.**
-
-<br>
-
----
-
-## 4️⃣ Generated Answer
-
-```text
-screenshots/04_generated_answer.png
-```
-
-![Generated Answer](screenshots/04_generated_answer.png)
-
-### 📌 Screenshot Placeholder
-
-**Paste your generated-answer screenshot here.**
-
-<br>
-
----
-
-## 5️⃣ Source Information
-
-The application provides source information associated with the retrieved policy content.
-
-```text
-screenshots/05_sources.png
-```
-
-![Sources](screenshots/05_sources.png)
-
-### 📌 Screenshot Placeholder
-
-**Paste your source/citation screenshot here.**
-
-<br>
-
----
-
-## 6️⃣ Conversation / Follow-Up Question
-
-```text
-screenshots/06_conversation.png
-```
-
-![Conversation](screenshots/06_conversation.png)
-
-### 📌 Screenshot Placeholder
-
-**Paste your conversation/follow-up screenshot here.**
-
-<br>
+<img width="1920" height="1080" alt="UI_Pipeline" src="https://github.com/user-attachments/assets/49f155c1-9480-47b0-adf9-0c7f72423ee0" />
 
 ---
 
