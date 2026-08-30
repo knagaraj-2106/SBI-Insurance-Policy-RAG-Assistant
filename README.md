@@ -292,12 +292,14 @@ The application follows a modular production-oriented RAG architecture.
 # 🖼️ Architecture Diagram
 
 <img width="1024" height="572" alt="architecture" src="https://github.com/user-attachments/assets/1d0d33fc-ada6-47b4-97b0-04fcc25d1bb5" />
+
+
 ```text
-```
+
 # 🔄 End-to-End RAG Workflow
 
 The complete application flow is divided into two major stages.
-
+```
 ---
 
 ## 1️⃣ Offline / Indexing Pipeline
